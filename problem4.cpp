@@ -14,7 +14,7 @@ int main() {
    cout << "Enter two integers to compare: "; // prompt user for data
    cin >> number1 >> number2; // read two integers from user
 
-   if (number1 = number2) {
+   if (number1 == number2) {
       cout << number1 << " == " << number2 << endl;
    
 
